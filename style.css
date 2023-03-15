@@ -1,0 +1,82 @@
+body{
+    font-family: sans-serif;
+    border: 0px;
+}
+h1{
+    font-size: 30px;
+}
+.first-width{
+    width: 40%;
+    float: left;
+    margin-left: 3%;
+    padding-left: 2%;
+    margin-top: 5%;
+    margin-bottom: 20px;
+   
+}
+.first-width img{
+    width:90%;
+    height: 500px;
+    float: right ;
+    margin-right: 15%;
+    
+    
+}
+.section{
+    background: url(img/header-bg.png);
+    height: 700px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+   
+}
+.orange{
+    color: orange;
+}
+.link{
+    text-decoration:none ;
+    background: rgb(249, 80, 42);
+    background-image: linear-gradient( lightsalmon,tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color:white;
+    font-weight: 700;
+}
+.biograph {
+    width: 40%;
+    float: right;
+    margin-right: 3%;
+    padding-right: 2%;
+    margin-top: 10%;
+}  
+.class-two{
+    background: url(img/biography-bg.png);
+    height: 700px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+}
+.work{
+    background-image: url(img/latest-work-bg.png);
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+    width: 100%;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    margin-top: 60px;
+    
+}    
+.work-1{
+    
+    width: 15%;
+    float: left;
+    margin-left: 15%;
+    margin-top: 80px;
+    
+    
+}
+footer{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
